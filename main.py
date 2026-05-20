@@ -52,7 +52,7 @@ from sentence_transformers import SentenceTransformer
 # LANGCHAIN TEXT SPLITTER
 # Splits large text into smaller chunks for better retrieval
 # ---------------------------------------------------------
-from langchain.text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 # ---------------------------------------------------------
